@@ -8,7 +8,7 @@ function TopButtons() {
     },
     {
         id: 1,
-        title: 'Trico'
+        title: 'Trinco'
     },
     {
         id: 1,

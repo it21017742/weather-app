@@ -7,15 +7,15 @@ function TopButtons() {
         title: 'Colombo'
     },
     {
-        id: 1,
+        id: 2,
         title: 'Trinco'
     },
     {
-        id: 1,
+        id: 3,
         title: 'Kandy'
     },
     {
-        id: 1,
+        id: 4,
         title: 'Galle'
     },
     {

@@ -16,7 +16,8 @@ function Forecast() {
                     className="w-12 my-1"
                     alt=""
                     />
-                <p className="font-medium">28°C</p>    
+                <p className="font-medium">28°C</p>
+                <p className="font-medium">Rainy</p>    
             </div>
 
             <div className="flex flex-col items-center justify-center">
@@ -26,7 +27,8 @@ function Forecast() {
                     className="w-12 my-1"
                     alt=""
                     />
-                <p className="font-medium">28°C</p>    
+                <p className="font-medium">28°C</p>
+                <p className="font-medium">Windy</p>    
             </div>
 
             <div className="flex flex-col items-center justify-center">
@@ -36,7 +38,8 @@ function Forecast() {
                     className="w-12 my-1"
                     alt=""
                     />
-                <p className="font-medium">28°C</p>    
+                <p className="font-medium">28°C</p>
+                <p className="font-medium">Sunny</p>    
             </div>
             
         </div>
